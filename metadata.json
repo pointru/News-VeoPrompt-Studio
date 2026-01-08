@@ -1,0 +1,5 @@
+{
+  "name": "VeoPrompt Studio",
+  "description": "Strict Video News Prompt Generator for Veo 3. Supports Text, Image OCR, and Video Source analysis.",
+  "requestFramePermissions": []
+}
